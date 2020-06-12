@@ -541,7 +541,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:last-child {
-  margin-right: 0;
+  margin-right: 0;  
 }
 
 .portfolio .portfolio-wrap {
@@ -551,6 +551,8 @@ section {
   z-index: 1;
 }
 
+
+/*
 .portfolio .portfolio-wrap::before {
   content: "";
   background: rgba(255, 255, 255, 0.5);
@@ -604,7 +606,7 @@ section {
 .portfolio .portfolio-wrap:hover .portfolio-links {
   opacity: 1;
   bottom: 0;
-}
+}*/
 
 /*--------------------------------------------------------------
 # Services
